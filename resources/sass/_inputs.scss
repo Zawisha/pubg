@@ -1,0 +1,26 @@
+.tabber {
+  display: flex;
+  height: 7.4rem;
+  font-family: $font-helvetica;
+  text-transform: uppercase;
+  justify-content: center;
+  font-weight: bold;
+
+  div {
+    width: 23.3rem;
+    height: 100%;
+    border-bottom: 2px solid $color-orange;
+    opacity: .4;
+    transition: all .6s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+    &.active, &:hover {
+      opacity: 1;
+      background-image: -moz-linear-gradient( 90deg, rgb(14,11,3) 0%, rgba(94,71,18,0.5) 37%, rgba(231,173,43,0) 100%);
+      background-image: -webkit-linear-gradient( 90deg, rgb(14,11,3) 0%, rgba(94,71,18,0.5) 37%, rgba(231,173,43,0) 100%);
+    }
+  }
+}

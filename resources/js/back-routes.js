@@ -1,0 +1,14 @@
+export const GET_PAYMENT_URL = '/api/payment/game/';
+export const GET_FREE_PAYMENT_URL = '/api/payment/free/';
+export const CHECK_PAYPAL_ORDER = '/api/payment/checkOrder/';
+export const BECOME_MEMBER = '/api/game/enter/';
+export const LEAVE_GAME = '/api/game/leave/';
+export const GET_TEAMS = '/api/game/teams/';
+export const USER_UPLOAD_AVATAR = '/api/user/avatar';
+export const SET_USER_NAME_ID = '/api/user/set';
+export const BLOGGERS_REQUEST = '/api/bloggers';
+export const FINANCE_WITHDRAW = '/api/withdraw';
+export const SET_GAME_MODE = '/api/game/mode/'; //{game}/{isSingle}/{team}
+export const GET_GAME_MODE = '/api/game/current_mode/'; //{game}
+export const GET_GAMES = '/api/games';
+export const GET_UN_URL = '/api/payment/un/';

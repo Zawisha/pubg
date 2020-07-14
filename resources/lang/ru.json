@@ -1,0 +1,9 @@
+{
+    "Reset Password Notification": "Ввосстановление пароля",
+    "You are receiving this email because we received a password reset request for your account.": "Вы получили это письмо т.к. поступил запрос на восстановления пароля от вашего аккаунта",
+    "Reset Password": "Восстановить пароль",
+    "This password reset link will expire in :count minutes.": "Данная ссылка на восстановление истекает в течении :count минут",
+    "If you did not request a password reset, no further action is required.": "Если вы не запрашивали восстановления пароля, просто проигнорируйте данное письмо",
+    "Hello!": "Привет!",
+    "Hello": "Привет"
+}

@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'link_copied' => 'Ссылка скопирована',
+  'link_not_copied' => 'Не удалось скопировать ссылку. Выделите текст и скопируйте вручную',
+  'id_in_use' => 'Такой ID уже используется!',
+  'vk_link_error' => 'Не удалось изменить ссылку ВК',
+  'nik_in_use' => 'Такой ник уже используется!',
+  'title' => 'Мой профиль',
+  'reflink' => 'Пригласительная ссылка',
+  'copy' => 'Копировать',
+  'partners' => 'Приглашено партнеров:',
+  'refill' => 'Пополнить',
+  'withdraw' => 'Вывести',
+  'nik' => 'Ник в PUBG',
+  'id' => 'ID в PUBG',
+  'vk_link' => 'Ссылка ВК',
+  'games' => 'Турниров',
+  'frags' => 'Киллов',
+  'email' => 'E-mail',
+  'rank' => 'Ранг',
+  'balance' => 'Баланс',
+  'nik_cod' => 'Ник в COD',
+  'nik_freefire' => 'Ник в FREEFIRE',
+  'id_cod' => 'ID в COD',
+  'id_freefire' => 'ID в FREEFIRE',
+);

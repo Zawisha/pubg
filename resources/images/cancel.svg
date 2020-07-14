@@ -1,0 +1,13 @@
+<svg id="b65c106c-18f0-4ad7-b8e1-f6a547a9ed0c" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 46.04 46.04">
+    <defs>
+        <clipPath id="b34d4d53-b15e-4b77-a5db-dfcebbc8ec9d" transform="translate(-756 -1394.65)">
+            <rect x="756" y="1394.65" width="46.8" height="47" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <title>cancel</title>
+    <g style="clip-path:url(#b34d4d53-b15e-4b77-a5db-dfcebbc8ec9d)">
+        <path d="M800.48,1403.72l-14,14,14,13.95a5.31,5.31,0,0,1-7.51,7.51l-14-14-13.95,14a5.31,5.31,0,0,1-7.51-7.51l14-13.95-14-14a5.32,5.32,0,1,1,7.52-7.52l13.95,14,14-14a5.31,5.31,0,0,1,7.51,7.52Zm0,0"
+              transform="translate(-756 -1394.65)" style="fill:#ffc000"/>
+    </g>
+</svg>

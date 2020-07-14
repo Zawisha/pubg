@@ -1,0 +1,15 @@
+export const ERROR = 'ERROR';
+export const GET_PAYMENT_URL = 'GET_PAYMENT_URL';
+export const GET_FREE_PAYMENT_URL = 'GET_FREE_PAYMENT_URL';
+export const ENTER_GAME = 'ENTER_GAME';
+export const LEAVE_GAME = 'LEAVE_GAME';
+export const GET_TEAMS = 'GET_TEAMS';
+export const SET_USER_NAME_ID = 'SET_USER_NAME_ID';
+export const SEND_BLOGGERS_REQUEST = 'SEND_BLOGGERS_REQUEST';
+export const SET_GAME_MODE = 'SET_GAME_MODE';
+export const GET_GAME_MODE = 'GET_GAME_MODE';
+export const GET_GAMES = 'GET_GAMES';
+export const CHECK_PAYPAL_ORDER = 'CHECK_PAYPAL_ORDER';
+export const GET_UN_URL = 'GET_UN_URL';
+export const SET_CURRENT_SHOW_RESULTS_IMG = 'SET_CURRENT_SHOW_RESULTS_IMG';
+
